@@ -1,7 +1,6 @@
-[点我查看中文版](README.zh.md)
+# Tars Framework Arm Version 
 
-This project is the basic service of the Tars framework and is the basic framework for the operation of the services that carry the TARS language.
-
+Notewell: This Arm version!
 
 Directory |Features
 ----------------------|----------------
